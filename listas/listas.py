@@ -15,5 +15,6 @@ carro = ["Ferrari", "F8", 2900, True]
 # acessando elementos -------------- 
 
 frutas = ["maçã", "laranja", "uva", "pera"]
-print(frutas[0], frutas[-1], sep = " - ")
+print(frutas[0], frutas[-1], sep = " - ") # pegando o último ítem
+
 
