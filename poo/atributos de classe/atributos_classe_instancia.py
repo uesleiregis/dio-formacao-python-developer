@@ -19,9 +19,9 @@ aluno_2 = Estudante("Giovana", 2)
 mostrar_valores(aluno_1, aluno_2)
 
 Estudante.escola = "Python" # Troquei a variável de classe, isto é, troquei para todas as variáveis seguintes. 
-aluno_1.matricula = 3
+aluno_1.matricula = 3 # alterando instância do objeto
 
-aluno_3 = Estudante("Chappie", 3)
+aluno_3 = Estudante("Chappie ", 3)
 
-mostrar_valores(aluno_1, aluno_2, aluno_3)
+mostrar_valores(aluno_1, aluno_2, aluno_3) 
 
